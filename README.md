@@ -2,6 +2,17 @@
 
 A public reference library for obscure, difficult-to-find information about consumer products, parts, repairs, compatibility, specifications, and other technical details.
 
+## Knowledge Archive
+
+### Vintage Audio
+
+#### Sony
+
+- [Sony CDP-C301M — Drive Belts and Timing Belt Replacement](Vintage-Audio/Sony/CDP-C301M.md)
+  - Sony timing belt part number **4-930-528-01**
+  - Original belt: **83 teeth, 2 mm pitch, approximately 166 mm pitch length**
+  - Two-belt configuration, replacement research, measurements, and cross-reference warnings
+
 ## Why This Archive Exists
 
 Some product information is surprisingly difficult to find.
