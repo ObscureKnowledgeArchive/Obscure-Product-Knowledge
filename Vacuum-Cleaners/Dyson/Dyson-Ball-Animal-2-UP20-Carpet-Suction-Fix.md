@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Dyson Ball Animal 2 UP20 Hard to Push on Carpet — Suction Lock Fix"
+description: "Physically tested Dyson Ball Animal 2 / UP20 cleaner-head spacer fix for excessive carpet suction and hard-to-push behavior, including 2.5 mm and 4.5 mm test results."
+permalink: /vacuum-cleaners/dyson/ball-animal-2-up20-hard-to-push/
+---
+
 # Dyson Ball Animal 2 / UP20 — Excessive Carpet Suction and Hard-to-Push Fix
 
 **Manufacturer:** Dyson  
