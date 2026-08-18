@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://obscureknowledgearchive.github.io/Obscure-Product-Knowledge/sitemap.xml
