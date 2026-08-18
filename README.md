@@ -12,6 +12,15 @@ A public reference library for obscure, difficult-to-find information about cons
   - Sony timing belt part number **4-930-528-01**
   - Original belt: **83 teeth, 2 mm pitch, approximately 166 mm pitch length**
   - Two-belt configuration, replacement research, measurements, and cross-reference warnings
+ 
+### Vacuum Cleaners
+
+#### Dyson
+
+- [Dyson Ball Animal 2 / UP20 — Excessive Carpet Suction and Hard-to-Push Fix](Vacuum-Cleaners/Dyson/Dyson-Ball-Animal-2-UP20-Carpet-Suction-Fix.md)
+  - Reversible cleaner-head spacer modification
+  - **2.5 mm and 4.5–4.55 mm spacers physically tested**
+  - Reduces excessive carpet suction-lock and push resistance
 
 ## Why This Archive Exists
 
