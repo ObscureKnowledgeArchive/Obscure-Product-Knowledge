@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: "Sony CDP-C301M Timing Belt 4-930-528-01 — Size, Specs and Replacement"
+description: "Sony CDP-C301M timing belt reference: part number 4-930-528-01, 83 teeth, 2 mm pitch, approximately 166 mm pitch length, plus two-belt configuration and replacement notes."
+permalink: /vintage-audio/sony/cdp-c301m-timing-belt/
+---
 # Sony CDP-C301M — Drive Belts and Timing Belt Replacement
 
 **Manufacturer:** Sony  
