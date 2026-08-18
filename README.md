@@ -8,7 +8,7 @@ A public reference library for obscure, difficult-to-find information about cons
 
 #### Sony
 
-- [Sony CDP-C301M — Drive Belts and Timing Belt Replacement](Vintage-Audio/Sony/CDP-C301M.md)
+- [Sony CDP-C301M — Drive Belts and Timing Belt Replacement](/Obscure-Product-Knowledge/vintage-audio/sony/cdp-c301m-timing-belt/)
   - Sony timing belt part number **4-930-528-01**
   - Original belt: **83 teeth, 2 mm pitch, approximately 166 mm pitch length**
   - Two-belt configuration, replacement research, measurements, and cross-reference warnings
@@ -17,7 +17,7 @@ A public reference library for obscure, difficult-to-find information about cons
 
 #### Dyson
 
-- [Dyson Ball Animal 2 / UP20 — Excessive Carpet Suction and Hard-to-Push Fix](Vacuum-Cleaners/Dyson/Dyson-Ball-Animal-2-UP20-Carpet-Suction-Fix.md)
+- [Dyson Ball Animal 2 / UP20 — Excessive Carpet Suction and Hard-to-Push Fix](/Obscure-Product-Knowledge/vacuum-cleaners/dyson/ball-animal-2-up20-hard-to-push/)
   - Reversible cleaner-head spacer modification
   - **2.5 mm and 4.5–4.55 mm spacers physically tested**
   - Reduces excessive carpet suction-lock and push resistance
