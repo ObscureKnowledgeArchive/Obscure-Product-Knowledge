@@ -21,6 +21,15 @@ A public reference library for obscure, difficult-to-find information about cons
   - Reversible cleaner-head spacer modification
   - **2.5 mm and 4.5–4.55 mm spacers physically tested**
   - Reduces excessive carpet suction-lock and push resistance
+ 
+### Arcade Games
+
+#### Pac-Man & Ms. Pac-Man
+
+- [Pac-Man & Ms. Pac-Man PCB Repair and Troubleshooting Archive](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/)
+  - Firsthand repair records for original Midway Pac-Man and Ms. Pac-Man arcade PCBs
+  - Symptom-based troubleshooting for boot, graphics, sound, RAM/ROM, power, socket, trace, and component failures
+  - Individual repair cases document symptoms, diagnostics, root cause, repair performed, and result
 
 ## Why This Archive Exists
 
