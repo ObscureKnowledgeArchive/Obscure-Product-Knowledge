@@ -26,7 +26,7 @@ A public reference library for obscure, difficult-to-find information about cons
 
 #### Pac-Man & Ms. Pac-Man
 
-- [Pac-Man & Ms. Pac-Man PCB Repair and Troubleshooting Archive](/Obscure-Product-Knowledge/arcade/Pac-Man-Ms-Pac-Man/)
+- [Pac-Man & Ms. Pac-Man PCB Repair and Troubleshooting Archive](Arcade/Pac-Man-Ms-Pac-Man/README.md)
   - Firsthand repair records for original Midway Pac-Man and Ms. Pac-Man arcade PCBs
   - Symptom-based troubleshooting for boot, graphics, sound, RAM/ROM, power, socket, trace, and component failures
   - Individual repair cases document symptoms, diagnostics, root cause, repair performed, and result
