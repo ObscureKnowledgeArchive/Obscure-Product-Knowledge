@@ -4,8 +4,7 @@ description: "1991 Jeep Cherokee XJ with AW4 automatic transmission has an inter
 layout: default
 permalink: "/automotive/jeep/xj/aw4-neutral-safety-switch-sticky-grease-no-start/"
 category: "Automotive Repair"
-seo:
-  type: TechArticle
+
 ---
 
 # Jeep Cherokee XJ AW4 No-Start — Neutral Safety Switch Sticky Grease Repair
