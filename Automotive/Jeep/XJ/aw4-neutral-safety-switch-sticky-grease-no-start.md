@@ -96,3 +96,11 @@ Relevant terms for this repair include:
 This entry documents a **firsthand, physically tested repair** on a 1991 Jeep Cherokee XJ equipped with the AW4 automatic transmission.
 
 It records the failure and repair observed on this vehicle. Similar symptoms can have other electrical or mechanical causes, so this repair should be used as a diagnostic reference rather than as proof that every XJ no-start condition is caused by the neutral safety switch.
+
+---
+
+## More from the Obscure Product Knowledge Archive
+
+This repair is part of the **Obscure Product Knowledge Archive**, a collection of firsthand repair results, tested fixes, parts information, compatibility findings, and hard-to-find technical information.
+
+[Browse the complete Obscure Product Knowledge Archive](/Obscure-Product-Knowledge/)
