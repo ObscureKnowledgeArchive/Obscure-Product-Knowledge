@@ -165,3 +165,11 @@ This observation came from the documented coin/credit repair:
 These records originated from hands-on Pac-Man and Ms. Pac-Man PCB troubleshooting and repair work. They are presented as **documented repair cases**, not universal diagnostic rules. Similar symptoms can have different electrical causes.
 
 When troubleshooting, use the symptom descriptions to identify relevant cases, then follow the diagnostic observations rather than replacing a component solely because it fixed another board.
+
+---
+
+## More from the Obscure Product Knowledge Archive
+
+These Pac-Man and Ms. Pac-Man PCB repair records are part of the **Obscure Product Knowledge Archive**, preserving firsthand troubleshooting results, component-level repairs, diagnostic observations, parts information, and hard-to-find technical knowledge.
+
+[Browse the complete Obscure Product Knowledge Archive](/Obscure-Product-Knowledge/)
