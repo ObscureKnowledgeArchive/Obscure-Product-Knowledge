@@ -193,3 +193,11 @@ Dyson Ball Animal 2 refurbished hard to push
 ---
 
 **Last updated:** August 2026
+
+---
+
+## More from the Obscure Product Knowledge Archive
+
+This repair is part of the **Obscure Product Knowledge Archive**, a collection of firsthand repair results, tested fixes, physical measurements, parts information, compatibility findings, and hard-to-find technical information.
+
+[Browse the complete Obscure Product Knowledge Archive](/Obscure-Product-Knowledge/)
