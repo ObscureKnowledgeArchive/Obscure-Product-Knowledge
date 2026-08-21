@@ -11,3 +11,5 @@ url: "https://obscureknowledgearchive.github.io"
 baseurl: "/Obscure-Product-Knowledge"
 
 lang: en-US
+plugins:
+  - jekyll-seo-tag
