@@ -35,7 +35,7 @@ A public reference library for obscure, difficult-to-find information about cons
 
 #### Jeep
 
-- [1991 Jeep Cherokee XJ AW4 No-Start — Neutral Safety Switch Sticky Grease Repair](https://obscureknowledgearchive.github.io/Obscure-Product-Knowledge/automotive/jeep/xj/aw4-neutral-safety-switch-sticky-grease-no-start/)
+- [1991 Jeep Cherokee XJ AW4 No-Start — Neutral Safety Switch Sticky Grease Repair](https://obscureproductknowledge.com/automotive/jeep/xj/aw4-neutral-safety-switch-sticky-grease-no-start/)
   - Intermittent no-start/no-crank condition that may temporarily clear after moving the shifter
   - Cause found: aged sticky grease inside the AW4 neutral safety switch
   - Verified repair: clean the switch and relubricate with dielectric grease or white lithium grease
