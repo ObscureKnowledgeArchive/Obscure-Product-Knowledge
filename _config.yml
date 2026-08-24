@@ -6,9 +6,9 @@ description: >-
   compatibility, specifications, diagnostics, vintage electronics,
   appliances, arcade hardware, and other obscure technical knowledge.
 
-url: "https://obscureknowledgearchive.github.io"
+url: "https://obscureproductknowledge.com"
 
-baseurl: "/Obscure-Product-Knowledge"
+baseurl: ""
 
 lang: en-US
 plugins:
