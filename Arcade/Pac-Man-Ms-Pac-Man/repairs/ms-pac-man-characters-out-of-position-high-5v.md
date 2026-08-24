@@ -2,6 +2,10 @@
 title: "Ms. Pac-Man and Ghosts Out of Position From High +5 V Supply"
 description: "Firsthand Original Ms. Pac-Man PCB and daughter card repair: Ms. Pac-Man and Ghosts Out of Position From High +5 V Supply. Includes symptoms, diagnostic..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/ms-pac-man-characters-out-of-position-high-5v/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Ms Pac-Man ghosts out of place; Ms Pac-Man jumping; ghosts top of screen; 5.4 volts; 5V; switcher power supply; sprite position"

@@ -2,6 +2,10 @@
 title: "Pinky Jitters During Vertical Movement"
 description: "Firsthand Original Pac-Man PCB repair: Pinky Jitters During Vertical Movement. Includes symptoms, diagnostic steps, root cause, PCB locations, repair and..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-pinky-jitter-3h/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pinky jitter; Pinky twitch; ghost movement glitch; vertical ghost movement; 3F; 3H; 8216; ABC Diagnostics; sprite movement"

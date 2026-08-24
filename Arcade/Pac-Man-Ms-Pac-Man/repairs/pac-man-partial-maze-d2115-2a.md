@@ -2,6 +2,10 @@
 title: "Partial Maze With Large Horizontal Dead Spaces"
 description: "Firsthand Original Pac-Man PCB; same board as preceding reset-circuit repair repair: Partial Maze With Large Horizontal Dead Spaces. Includes symptoms,..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-partial-maze-d2115-2a/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man partial maze; horizontal dead spaces; maze missing; 2A; D2115; 3A; 3B; 3D; video RAM; graphics"

@@ -2,6 +2,10 @@
 title: "Missing Background Siren and Hum With Aftermarket Ms. Pac-Man Daughter Card"
 description: "Firsthand Original Pac-Man PCB with aftermarket Ms. Pac-Man daughter card repair: Missing Background Siren and Hum With Aftermarket Ms. Pac-Man Daughter..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/ms-pac-man-missing-background-sound-custom-roms/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Ms Pac-Man missing siren; background sound missing; hum; aftermarket daughter card; custom ROM; 6F; C49"

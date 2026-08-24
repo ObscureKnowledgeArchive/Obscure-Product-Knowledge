@@ -2,6 +2,10 @@
 title: "Static Garbage, Dead Address/Data Lines and Failed Reset"
 description: "Firsthand Original Pac-Man PCB repair: Static Garbage, Dead Address/Data Lines and Failed Reset. Includes symptoms, diagnostic steps, root cause, PCB..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-reset-failure-74ls02-7l/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man reset failure; static garbage blocks; dead address lines; dead data lines; Z80 pin 26; 7L; 74LS02; 9C; no boot"

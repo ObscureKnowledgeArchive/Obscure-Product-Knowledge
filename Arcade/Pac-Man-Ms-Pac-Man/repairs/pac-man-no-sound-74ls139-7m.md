@@ -2,6 +2,10 @@
 title: "No Sound: Signal Trace Leads to 74LS139 at 7M"
 description: "Firsthand Original Pac-Man PCB repair: No Sound: Signal Trace Leads to 74LS139 at 7M. Includes symptoms, diagnostic steps, root cause, PCB locations,..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-no-sound-74ls139-7m/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man no sound; 7M; 74LS139; 11A crackle test; 8K pin 5; 2M; 2L; logic probe; sound tracing"

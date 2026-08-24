@@ -2,6 +2,10 @@
 title: "Intermittent Translucent Characters and Jumping Ghosts From Bad 285 Socket"
 description: "Firsthand Original Pac-Man PCB repair: Intermittent Translucent Characters and Jumping Ghosts From Bad 285 Socket. Includes symptoms, diagnostic steps,..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-translucent-characters-285-socket/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man 285 socket; translucent characters; ghosts jumping; two Pac-Man characters; intermittent graphics; bad socket"

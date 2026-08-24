@@ -2,6 +2,10 @@
 title: "Notches Missing From Pac-Man and Ghost Graphics"
 description: "Firsthand Original Pac-Man PCB repair: Notches Missing From Pac-Man and Ghost Graphics. Includes symptoms, diagnostic steps, root cause, PCB locations,..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-notches-missing-sprites-5e-5f/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man notch; ghost head notch; missing sprite pixels; 5E; 5F; masked ROM; character graphics"

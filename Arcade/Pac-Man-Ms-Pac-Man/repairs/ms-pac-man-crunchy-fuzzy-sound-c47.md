@@ -2,6 +2,10 @@
 title: "Crunchy and Fuzzy Sound Effects"
 description: "Firsthand Original Ms. Pac-Man PCB repair: Crunchy and Fuzzy Sound Effects. Includes symptoms, diagnostic steps, root cause, PCB locations, repair and..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/ms-pac-man-crunchy-fuzzy-sound-c47/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Ms Pac-Man crunchy sound; fuzzy sound; distorted sound; C47; capacitor; sound circuit"

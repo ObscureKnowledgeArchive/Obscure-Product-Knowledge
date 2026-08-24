@@ -2,6 +2,10 @@
 title: "Pac-Man and Ghosts Stuck in Upper-Left Corner"
 description: "Firsthand Original Pac-Man PCB repair: Pac-Man and Ghosts Stuck in Upper-Left Corner. Includes symptoms, diagnostic steps, root cause, PCB locations,..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-characters-upper-left-7489-2f/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man upper left corner; ghosts upper left; sprite position; 2F; 2H; 7489; characters stuck corner"

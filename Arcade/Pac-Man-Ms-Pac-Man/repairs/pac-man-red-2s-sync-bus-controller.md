@@ -2,6 +2,10 @@
 title: "Screen Full of Red 2s Caused by Loose Sync Bus Controller"
 description: "Firsthand Original Pac-Man PCB repair: Screen Full of Red 2s Caused by Loose Sync Bus Controller. Includes symptoms, diagnostic steps, root cause, PCB..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-red-2s-sync-bus-controller/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man red 2s; screen full of 2s; Sync Bus Controller; Z80 daughter card; loose card; boot failure"

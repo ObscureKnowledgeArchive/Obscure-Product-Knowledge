@@ -2,6 +2,10 @@
 title: "Garbled Pac-Man, Ghost and Fruit Sprites"
 description: "Firsthand Original Pac-Man PCB repair: Garbled Pac-Man, Ghost and Fruit Sprites. Includes symptoms, diagnostic steps, root cause, PCB locations, repair..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-garbled-sprites-74ls174-1h/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man garbled sprites; ghosts garbled; fruit shows number; quadrant sprites; 1H; 74LS174; sprite graphics"

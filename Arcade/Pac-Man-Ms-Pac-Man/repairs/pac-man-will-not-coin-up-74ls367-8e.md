@@ -2,6 +2,10 @@
 title: "Board Will Not Coin Up"
 description: "Firsthand Original Pac-Man PCB repair: Board Will Not Coin Up. Includes symptoms, diagnostic steps, root cause, PCB locations, repair and verified result."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-will-not-coin-up-74ls367-8e/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man will not coin up; credit switch; coin input; 8E; 8H; 74LS367; coin 2"

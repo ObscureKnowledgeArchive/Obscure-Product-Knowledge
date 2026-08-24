@@ -2,6 +2,10 @@
 title: "Missing and Out-of-Tempo Sounds From Broken Trace at 1M"
 description: "Firsthand Original Pac-Man PCB repair: Missing and Out-of-Tempo Sounds From Broken Trace at 1M. Includes symptoms, diagnostic steps, root cause, PCB..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-intermission-sound-1m-broken-trace/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man sound wrong; intermission music out of tempo; missing test sound; 1M; CD4066; R2; broken trace; sound circuit"

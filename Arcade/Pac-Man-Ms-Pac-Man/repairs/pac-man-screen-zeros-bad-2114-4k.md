@@ -2,6 +2,10 @@
 title: "Screen Full of Zeros With Irregular Black Blocks"
 description: "Firsthand Original Pac-Man PCB repair: Screen Full of Zeros With Irregular Black Blocks. Includes symptoms, diagnostic steps, root cause, PCB locations,..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-screen-zeros-bad-2114-4k/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man screen full of zeros; 0s on screen; black blocks; 2114 RAM; scratchpad RAM; 4K; 4R; boot failure"

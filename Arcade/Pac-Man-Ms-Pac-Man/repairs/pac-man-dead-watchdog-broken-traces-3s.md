@@ -2,6 +2,10 @@
 title: "Dead Board, Watchdog Running, Broken Traces at 3S"
 description: "Firsthand Original Pac-Man PCB repair: Dead Board, Watchdog Running, Broken Traces at 3S. Includes symptoms, diagnostic steps, root cause, PCB locations,..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-dead-watchdog-broken-traces-3s/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man watchdog; dead board; no pulse 5M; no pulse 3P; no pulse 9C; 3S; 161; broken trace"

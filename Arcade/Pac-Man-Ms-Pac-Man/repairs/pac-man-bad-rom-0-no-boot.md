@@ -2,6 +2,10 @@
 title: "Dead Board With BAD ROM 0 in Test Mode"
 description: "Firsthand Original Pac-Man PCB repair: Dead Board With BAD ROM 0 in Test Mode. Includes symptoms, diagnostic steps, root cause, PCB locations, repair and..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-bad-rom-0-no-boot/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man dead board; blank screen; no sound; Bad Rom 0; BAD ROM 0; 6E; program ROM; boot failure"

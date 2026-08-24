@@ -2,6 +2,10 @@
 title: "Multiple Memory, Socket and Color Faults After Reversing Ms. Pac-Man Modification"
 description: "Firsthand Original Pac-Man PCB previously modified to play Ms. Pac-Man without daughter card repair: Multiple Memory, Socket and Color Faults After..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-multiple-memory-color-faults/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man modified Ms Pac-Man; will not boot; 2A 2B 2C 2D; 2114; 283 sweep; wrong ghost color; white cherry; 4A; 7F; color RAM"

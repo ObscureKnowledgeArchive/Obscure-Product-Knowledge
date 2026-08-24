@@ -2,6 +2,10 @@
 title: "Sparkles or Stars Around Pac-Man and Ghosts"
 description: "Firsthand Original Pac-Man PCB repair: Sparkles or Stars Around Pac-Man and Ghosts. Includes symptoms, diagnostic steps, root cause, PCB locations, repair..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-sparkles-stars-5e-5f/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man sparkles; Pac-Man stars; ghost pen sparkles; attract mode graphics; 5E; 5F; character graphics"

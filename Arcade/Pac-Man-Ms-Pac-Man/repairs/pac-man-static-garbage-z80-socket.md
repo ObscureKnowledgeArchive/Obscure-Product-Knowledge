@@ -2,6 +2,10 @@
 title: "Static Garbage Screen Caused by Z80 Socket"
 description: "Firsthand Original Pac-Man PCB repair: Static Garbage Screen Caused by Z80 Socket. Includes symptoms, diagnostic steps, root cause, PCB locations, repair..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-static-garbage-z80-socket/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man garbage screen; static garbage; Z80 socket; pressing Z80 changes screen; CPU socket; no boot"

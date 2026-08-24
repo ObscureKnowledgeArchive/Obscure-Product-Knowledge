@@ -2,6 +2,10 @@
 title: "Rapidly Flashing Ghosts and Garbage"
 description: "Firsthand Original Pac-Man PCB repair: Rapidly Flashing Ghosts and Garbage. Includes symptoms, diagnostic steps, root cause, PCB locations, repair and..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-flashing-ghosts-garbage-4r/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man flashing ghosts; flashing garbage; 4R; scratchpad memory; ABC Diagnostics"

@@ -2,6 +2,10 @@
 title: "Slightly Distorted Sound Effects and Intermission Music"
 description: "Firsthand Original Pac-Man PCB repair: Slightly Distorted Sound Effects and Intermission Music. Includes symptoms, diagnostic steps, root cause, PCB..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-distorted-sound-1m/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man distorted sound; distorted siren; intermission distortion; 1M; 1N; 2M; sound circuit"

@@ -2,6 +2,10 @@
 title: "Garbled Static Graphics, No Boot, No Reset, Plus Loud Hum"
 description: "Firsthand Original Pac-Man PCB repair: Garbled Static Graphics, No Boot, No Reset, Plus Loud Hum. Includes symptoms, diagnostic steps, root cause, PCB..."
 layout: default
+breadcrumbs:
+  - name: Arcade
+  - name: Pac-Man & Ms. Pac-Man
+  - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-no-boot-rom-sockets-6e-6j/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
 keywords: "Pac-Man garbled static; no boot; no reset; ABC Diagnostics boots; ROM sockets; 6E; 6F; 6H; 6J; C50; speaker hum"
