@@ -15,8 +15,6 @@
 
   <link rel="icon" type="image/jpeg" href="{{ '/Favicon.jpg' | relative_url }}">
 
-  {% include head-custom.html %}
-
    <style>
   body {
     margin: 0;
@@ -34,7 +32,24 @@
       padding: 20px 16px;
     }
   }
+
+.breadcrumbs {
+  margin: 0 0 24px 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.breadcrumbs a {
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+     
 </style>
+
+ {% include head-custom.html %}
   
 </head>
 
@@ -52,6 +67,20 @@
       {% endif %}
     </header>
 
+    {% if page.breadcrumbs %}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Obscure Product Knowledge Archive</a>
+  {% for crumb in page.breadcrumbs %}
+    <span aria-hidden="true"> › </span>
+    {% if crumb.url %}
+      <a href="{{ crumb.url | relative_url }}">{{ crumb.name }}</a>
+    {% else %}
+      <span>{{ crumb.name }}</span>
+    {% endif %}
+  {% endfor %}
+</nav>
+{% endif %}
+   
     <section>
       {{ content }}
     </section>
