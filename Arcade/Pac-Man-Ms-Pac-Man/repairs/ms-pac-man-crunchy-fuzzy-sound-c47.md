@@ -31,13 +31,13 @@ It is intended for technicians and collectors troubleshooting original Pac-Man o
 
 ## Related Pac-Man / Ms. Pac-Man Repair Cases
 
-- [Missing and Out-of-Tempo Sounds From Broken Trace at 1M](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-intermission-sound-1m-broken-trace/)
-- [Slightly Distorted Sound Effects and Intermission Music](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-distorted-sound-1m/)
-- [Missing Background Siren and Hum With Aftermarket Ms. Pac-Man Daughter Card](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/ms-pac-man-missing-background-sound-custom-roms/)
-- [No Sound: Signal Trace Leads to 74LS139 at 7M](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-no-sound-74ls139-7m/)
+- [Missing and Out-of-Tempo Sounds From Broken Trace at 1M](/arcade/pac-man-ms-pac-man/repairs/pac-man-intermission-sound-1m-broken-trace/)
+- [Slightly Distorted Sound Effects and Intermission Music](/arcade/pac-man-ms-pac-man/repairs/pac-man-distorted-sound-1m/)
+- [Missing Background Siren and Hum With Aftermarket Ms. Pac-Man Daughter Card](/arcade/pac-man-ms-pac-man/repairs/ms-pac-man-missing-background-sound-custom-roms/)
+- [No Sound: Signal Trace Leads to 74LS139 at 7M](/arcade/pac-man-ms-pac-man/repairs/pac-man-no-sound-74ls139-7m/)
 
 ## How to Use This Repair Record
 
 This is a firsthand physical repair case. The same symptom on another Pac-Man or Ms. Pac-Man PCB can have a different electrical cause. Use the documented diagnostic observations and tests to guide troubleshooting rather than replacing a component solely because it repaired this board.
 
-[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/)
+[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/arcade/pac-man-ms-pac-man/)

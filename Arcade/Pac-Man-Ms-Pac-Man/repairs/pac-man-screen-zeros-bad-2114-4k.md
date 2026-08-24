@@ -33,13 +33,13 @@ It is intended for technicians and collectors troubleshooting original Pac-Man o
 
 ## Related Pac-Man / Ms. Pac-Man Repair Cases
 
-- [Dead Board With BAD ROM 0 in Test Mode](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-bad-rom-0-no-boot/)
-- [Static Garbage Screen Caused by Z80 Socket](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-static-garbage-z80-socket/)
-- [Screen Full of Red 2s Caused by Loose Sync Bus Controller](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-red-2s-sync-bus-controller/)
-- [Dead Board, Watchdog Running, Broken Traces at 3S](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-dead-watchdog-broken-traces-3s/)
+- [Dead Board With BAD ROM 0 in Test Mode](/arcade/pac-man-ms-pac-man/repairs/pac-man-bad-rom-0-no-boot/)
+- [Static Garbage Screen Caused by Z80 Socket](/arcade/pac-man-ms-pac-man/repairs/pac-man-static-garbage-z80-socket/)
+- [Screen Full of Red 2s Caused by Loose Sync Bus Controller](/arcade/pac-man-ms-pac-man/repairs/pac-man-red-2s-sync-bus-controller/)
+- [Dead Board, Watchdog Running, Broken Traces at 3S](/arcade/pac-man-ms-pac-man/repairs/pac-man-dead-watchdog-broken-traces-3s/)
 
 ## How to Use This Repair Record
 
 This is a firsthand physical repair case. The same symptom on another Pac-Man or Ms. Pac-Man PCB can have a different electrical cause. Use the documented diagnostic observations and tests to guide troubleshooting rather than replacing a component solely because it repaired this board.
 
-[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/)
+[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/arcade/pac-man-ms-pac-man/)

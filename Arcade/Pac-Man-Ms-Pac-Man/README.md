@@ -172,4 +172,4 @@ When troubleshooting, use the symptom descriptions to identify relevant cases, t
 
 These Pac-Man and Ms. Pac-Man PCB repair records are part of the **Obscure Product Knowledge Archive**, preserving firsthand troubleshooting results, component-level repairs, diagnostic observations, parts information, and hard-to-find technical knowledge.
 
-[Browse the complete Obscure Product Knowledge Archive](/Obscure-Product-Knowledge/)
+[Browse the complete Obscure Product Knowledge Archive](/)

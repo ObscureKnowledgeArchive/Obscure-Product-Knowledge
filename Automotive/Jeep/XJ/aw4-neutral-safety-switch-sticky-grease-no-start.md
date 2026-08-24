@@ -107,4 +107,4 @@ It records the failure and repair observed on this vehicle. Similar symptoms can
 
 This repair is part of the **Obscure Product Knowledge Archive**, a collection of firsthand repair results, tested fixes, parts information, compatibility findings, and hard-to-find technical information.
 
-[Browse the complete Obscure Product Knowledge Archive](/Obscure-Product-Knowledge/)
+[Browse the complete Obscure Product Knowledge Archive](/)

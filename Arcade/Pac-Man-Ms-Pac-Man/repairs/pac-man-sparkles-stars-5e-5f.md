@@ -31,13 +31,13 @@ It is intended for technicians and collectors troubleshooting original Pac-Man o
 
 ## Related Pac-Man / Ms. Pac-Man Repair Cases
 
-- [Notches Missing From Pac-Man and Ghost Graphics](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-notches-missing-sprites-5e-5f/)
-- [Pinky Jitters During Vertical Movement](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-pinky-jitter-3h/)
-- [Garbled Pac-Man, Ghost and Fruit Sprites](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-garbled-sprites-74ls174-1h/)
-- [Pac-Man and Ghosts Stuck in Upper-Left Corner](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-characters-upper-left-7489-2f/)
+- [Notches Missing From Pac-Man and Ghost Graphics](/arcade/pac-man-ms-pac-man/repairs/pac-man-notches-missing-sprites-5e-5f/)
+- [Pinky Jitters During Vertical Movement](/arcade/pac-man-ms-pac-man/repairs/pac-man-pinky-jitter-3h/)
+- [Garbled Pac-Man, Ghost and Fruit Sprites](/arcade/pac-man-ms-pac-man/repairs/pac-man-garbled-sprites-74ls174-1h/)
+- [Pac-Man and Ghosts Stuck in Upper-Left Corner](/arcade/pac-man-ms-pac-man/repairs/pac-man-characters-upper-left-7489-2f/)
 
 ## How to Use This Repair Record
 
 This is a firsthand physical repair case. The same symptom on another Pac-Man or Ms. Pac-Man PCB can have a different electrical cause. Use the documented diagnostic observations and tests to guide troubleshooting rather than replacing a component solely because it repaired this board.
 
-[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/)
+[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/arcade/pac-man-ms-pac-man/)

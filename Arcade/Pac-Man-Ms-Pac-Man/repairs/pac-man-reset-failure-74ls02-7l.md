@@ -37,17 +37,17 @@ It is intended for technicians and collectors troubleshooting original Pac-Man o
 
 ## Related Repair on the Same PCB
 
-After this reset-circuit repair, the same board still had a separate graphics problem. See [Pac-Man partial maze with horizontal dead spaces — D2115 at 2A](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-partial-maze-d2115-2a/).
+After this reset-circuit repair, the same board still had a separate graphics problem. See [Pac-Man partial maze with horizontal dead spaces — D2115 at 2A](/arcade/pac-man-ms-pac-man/repairs/pac-man-partial-maze-d2115-2a/).
 
 ## Related Pac-Man / Ms. Pac-Man Repair Cases
 
-- [Partial Maze With Large Horizontal Dead Spaces](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-partial-maze-d2115-2a/)
-- [Dead Board With BAD ROM 0 in Test Mode](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-bad-rom-0-no-boot/)
-- [Static Garbage Screen Caused by Z80 Socket](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-static-garbage-z80-socket/)
-- [Screen Full of Zeros With Irregular Black Blocks](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-screen-zeros-bad-2114-4k/)
+- [Partial Maze With Large Horizontal Dead Spaces](/arcade/pac-man-ms-pac-man/repairs/pac-man-partial-maze-d2115-2a/)
+- [Dead Board With BAD ROM 0 in Test Mode](/arcade/pac-man-ms-pac-man/repairs/pac-man-bad-rom-0-no-boot/)
+- [Static Garbage Screen Caused by Z80 Socket](/arcade/pac-man-ms-pac-man/repairs/pac-man-static-garbage-z80-socket/)
+- [Screen Full of Zeros With Irregular Black Blocks](/arcade/pac-man-ms-pac-man/repairs/pac-man-screen-zeros-bad-2114-4k/)
 
 ## How to Use This Repair Record
 
 This is a firsthand physical repair case. The same symptom on another Pac-Man or Ms. Pac-Man PCB can have a different electrical cause. Use the documented diagnostic observations and tests to guide troubleshooting rather than replacing a component solely because it repaired this board.
 
-[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/)
+[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/arcade/pac-man-ms-pac-man/)

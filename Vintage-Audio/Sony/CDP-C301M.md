@@ -158,4 +158,4 @@ Sony 5 disc changer timing belt
 
 This entry is part of the **Obscure Product Knowledge Archive**, a collection of firsthand repair results, tested fixes, parts information, compatibility findings, measurements, and hard-to-find technical information.
 
-[Browse the complete Obscure Product Knowledge Archive](/Obscure-Product-Knowledge/)
+[Browse the complete Obscure Product Knowledge Archive](/)

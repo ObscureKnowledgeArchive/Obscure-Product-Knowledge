@@ -35,17 +35,17 @@ It is intended for technicians and collectors troubleshooting original Pac-Man o
 
 ## Related Repair on the Same PCB
 
-This was the same PCB whose reset failure was first corrected by replacing the 74LS02 at 7L. See [Pac-Man reset failure — 74LS02 at 7L](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-reset-failure-74ls02-7l/).
+This was the same PCB whose reset failure was first corrected by replacing the 74LS02 at 7L. See [Pac-Man reset failure — 74LS02 at 7L](/arcade/pac-man-ms-pac-man/repairs/pac-man-reset-failure-74ls02-7l/).
 
 ## Related Pac-Man / Ms. Pac-Man Repair Cases
 
-- [Static Garbage, Dead Address/Data Lines and Failed Reset](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-reset-failure-74ls02-7l/)
-- [Sparkles or Stars Around Pac-Man and Ghosts](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-sparkles-stars-5e-5f/)
-- [Notches Missing From Pac-Man and Ghost Graphics](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-notches-missing-sprites-5e-5f/)
-- [Pinky Jitters During Vertical Movement](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/repairs/pac-man-pinky-jitter-3h/)
+- [Static Garbage, Dead Address/Data Lines and Failed Reset](/arcade/pac-man-ms-pac-man/repairs/pac-man-reset-failure-74ls02-7l/)
+- [Sparkles or Stars Around Pac-Man and Ghosts](/arcade/pac-man-ms-pac-man/repairs/pac-man-sparkles-stars-5e-5f/)
+- [Notches Missing From Pac-Man and Ghost Graphics](/arcade/pac-man-ms-pac-man/repairs/pac-man-notches-missing-sprites-5e-5f/)
+- [Pinky Jitters During Vertical Movement](/arcade/pac-man-ms-pac-man/repairs/pac-man-pinky-jitter-3h/)
 
 ## How to Use This Repair Record
 
 This is a firsthand physical repair case. The same symptom on another Pac-Man or Ms. Pac-Man PCB can have a different electrical cause. Use the documented diagnostic observations and tests to guide troubleshooting rather than replacing a component solely because it repaired this board.
 
-[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/Obscure-Product-Knowledge/arcade/pac-man-ms-pac-man/)
+[← Back to the Pac-Man / Ms. Pac-Man PCB Repair Archive](/arcade/pac-man-ms-pac-man/)
