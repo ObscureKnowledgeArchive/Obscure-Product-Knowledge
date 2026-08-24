@@ -5,6 +5,7 @@ layout: default
 breadcrumbs:
   - name: Arcade
   - name: Pac-Man & Ms. Pac-Man
+  url: /arcade/pac-man-ms-pac-man/
   - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-will-not-coin-up-74ls367-8e/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"

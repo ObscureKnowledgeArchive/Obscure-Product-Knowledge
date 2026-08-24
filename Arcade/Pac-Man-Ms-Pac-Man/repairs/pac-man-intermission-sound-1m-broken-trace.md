@@ -5,6 +5,7 @@ layout: default
 breadcrumbs:
   - name: Arcade
   - name: Pac-Man & Ms. Pac-Man
+  url: /arcade/pac-man-ms-pac-man/
   - name: PCB Repairs
 permalink: "/arcade/pac-man-ms-pac-man/repairs/pac-man-intermission-sound-1m-broken-trace/"
 category: "Pac-Man / Ms. Pac-Man PCB Repair"
