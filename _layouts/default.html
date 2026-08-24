@@ -7,7 +7,32 @@
 
   {% seo %}
 
-<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+{% if page.breadcrumbs %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Obscure Product Knowledge Archive",
+      "item": "{{ site.url }}/"
+    }{% for crumb in page.breadcrumbs %},
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index | plus: 1 }},
+      "name": {{ crumb.name | jsonify }}{% if forloop.last %},
+      "item": "{{ site.url }}{{ page.url }}"{% endif %}
+    }{% endfor %}
+  ]
+}
+</script>
+
+{% endif %}
+
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
   <!--[if lt IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
