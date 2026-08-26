@@ -1,5 +1,5 @@
 ---
-title: "Pac-Man & Ms. Pac-Man PCB Repair Archive — Troubleshooting Guide"
+title: "Pac-Man & Ms. Pac-Man PCB Repair Archive - Troubleshooting Guide"
 description: "Firsthand Pac-Man and Ms. Pac-Man arcade PCB repair logs organized by symptom, including boot failures, garbage screens, sprite problems, sound faults, RAM/ROM failures, coin input problems, power issues, sockets, traces, and component locations."
 layout: default
 permalink: "/arcade/pac-man-ms-pac-man/"
