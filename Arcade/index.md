@@ -3,6 +3,7 @@ layout: page
 title: "Arcade Repair Knowledge Archive"
 description: "Firsthand arcade repair information, diagnostic findings, troubleshooting records, and physically verified repairs for vintage arcade hardware."
 permalink: /arcade/
+sitemap: true
 breadcrumbs:
   - name: Arcade
 ---
