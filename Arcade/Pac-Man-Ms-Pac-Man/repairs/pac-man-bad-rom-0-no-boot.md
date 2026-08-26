@@ -1,7 +1,7 @@
 ---
 title: "Dead Board With BAD ROM 0 in Test Mode"
 description: "Firsthand Original Pac-Man PCB repair: Dead Board With BAD ROM 0 in Test Mode. Includes symptoms, diagnostic steps, root cause, PCB locations, repair and..."
-layout: default
+layout: page
 breadcrumbs:
   - name: Arcade
   - name: Pac-Man & Ms. Pac-Man
