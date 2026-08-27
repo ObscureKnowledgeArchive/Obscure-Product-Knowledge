@@ -2,14 +2,6 @@
 
 A public reference library for obscure, difficult-to-find information about consumer products, parts, repairs, compatibility, specifications, and other technical details.
 
-## Archive Publishing & Maintenance
-
-The authoritative instructions for creating and publishing new knowledge entries are maintained in:
-
-**[Obscure Product Knowledge Archive Publishing Guide](OBSCURE-PRODUCT-KNOWLEDGE-PUBLISHING-GUIDE.md)**
-
-This guide defines the article format, site architecture, breadcrumb rules, sitemap procedure, deployment workflow, and recovery instructions for maintaining the archive.
-
 ## Knowledge Archive
 
 ### Vintage Audio

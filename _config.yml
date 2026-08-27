@@ -13,3 +13,6 @@ baseurl: ""
 lang: en-US
 plugins:
   - jekyll-seo-tag
+
+exclude:
+  - OBSCURE-PRODUCT-KNOWLEDGE-PUBLISHING-GUIDE.md
