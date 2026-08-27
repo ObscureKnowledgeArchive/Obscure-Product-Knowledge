@@ -6,6 +6,7 @@ permalink: "/automotive/jeep/xj/aw4-neutral-safety-switch-sticky-grease-no-start
 category: "Automotive Repair"
 breadcrumbs:
   - name: Automotive
+    url: /automotive/
   - name: Jeep
   - name: XJ
   - name: AW4 Neutral Safety Switch Repair
