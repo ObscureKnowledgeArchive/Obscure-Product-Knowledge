@@ -72,6 +72,12 @@
   text-decoration: underline;
 }
      
+.site-title {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0.67em 0;
+}
+
 </style>
 
  {% include head-custom.html %}
@@ -81,11 +87,11 @@
 <body>
   <div class="wrapper">
     <header>
-      <h1>
+      <div class="site-title">
         <a href="{{ "/" | relative_url }}">
           {{ site.title | default: site.github.repository_name }}
         </a>
-      </h1>
+      </div>
 
       {% if site.description %}
         <p>{{ site.description }}</p>
