@@ -5,6 +5,7 @@ description: "Physically tested Dyson Ball Animal 2 / UP20 cleaner-head spacer f
 permalink: /vacuum-cleaners/dyson/ball-animal-2-up20-hard-to-push/
 breadcrumbs:
   - name: Vacuum Cleaners
+    url: /vacuum-cleaners/
   - name: Dyson
   - name: Dyson Ball Animal 2 / UP20 Carpet Suction Fix
 ---
