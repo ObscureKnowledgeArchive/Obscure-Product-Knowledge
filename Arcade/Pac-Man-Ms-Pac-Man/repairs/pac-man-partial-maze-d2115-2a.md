@@ -4,6 +4,7 @@ description: "Firsthand Original Pac-Man PCB; same board as preceding reset-circ
 layout: default
 breadcrumbs:
   - name: Arcade
+    url: /arcade/
   - name: Pac-Man & Ms. Pac-Man
     url: /arcade/pac-man-ms-pac-man/
   - name: PCB Repairs

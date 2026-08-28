@@ -4,6 +4,7 @@ description: "Firsthand Original Pac-Man PCB repair: No Sound: Signal Trace Lead
 layout: default
 breadcrumbs:
   - name: Arcade
+    url: /arcade/
   - name: Pac-Man & Ms. Pac-Man
     url: /arcade/pac-man-ms-pac-man/
   - name: PCB Repairs

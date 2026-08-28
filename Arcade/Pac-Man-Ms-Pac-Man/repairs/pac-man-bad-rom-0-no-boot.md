@@ -4,6 +4,7 @@ description: "Firsthand Original Pac-Man PCB repair: Dead Board With BAD ROM 0 i
 layout: page
 breadcrumbs:
   - name: Arcade
+    url: /arcade/
   - name: Pac-Man & Ms. Pac-Man
     url: /arcade/pac-man-ms-pac-man/
   - name: PCB Repairs
