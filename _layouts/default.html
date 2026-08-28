@@ -24,8 +24,8 @@
     {
       "@type": "ListItem",
       "position": {{ forloop.index | plus: 1 }},
-      "name": {{ crumb.name | jsonify }}{% if forloop.last %},
-      "item": "{{ site.url }}{{ page.url }}"{% endif %}
+      "name": {{ crumb.name | jsonify }},
+      "item": "{{ site.url }}{% if forloop.last %}{{ page.url }}{% else %}{{ crumb.url }}{% endif %}"
     }{% endfor %}
   ]
 }
