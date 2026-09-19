@@ -40,6 +40,12 @@ A public reference library for obscure, difficult-to-find information about cons
   - Cause found: aged sticky grease inside the AW4 neutral safety switch
   - Verified repair: clean the switch and relubricate with dielectric grease or white lithium grease
 
+### Home Systems
+
+Verified repair information, troubleshooting findings, parts information, and firsthand technical observations for residential mechanical systems and equipment.
+
+- [Home Systems Repair & Technical Knowledge](Home-Systems/README.md)
+
 ## Why This Archive Exists
 
 Some product information is surprisingly difficult to find.
