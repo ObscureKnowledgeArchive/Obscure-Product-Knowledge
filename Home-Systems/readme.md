@@ -6,8 +6,8 @@ Verified repair information, troubleshooting findings, measurements, parts infor
 
 ### Zurn / Wilkins
 
-- [Zurn / Wilkins BR4 Pressure Reducing Valve](Plumbing/Zurn-Wilkins/BR4-Pressure-Reducing-Valve.md)
+- [Zurn / Wilkins BR4 Pressure Reducing Valve](https://obscureproductknowledge.com/home-systems/plumbing/zurn-wilkins/br4-pressure-reducing-valve/)
 
 ---
 
-[← Back to Obscure Product Knowledge Archive](../README.md)
+[← Back to Obscure Product Knowledge Archive](https://obscureproductknowledge.com/)
