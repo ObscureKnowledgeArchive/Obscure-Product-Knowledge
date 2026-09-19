@@ -44,7 +44,7 @@ A public reference library for obscure, difficult-to-find information about cons
 
 Verified repair information, troubleshooting findings, parts information, and firsthand technical observations for residential mechanical systems and equipment.
 
-- [Home Systems Repair & Technical Knowledge](Home-Systems/README.md)
+- [Home Systems Repair & Technical Knowledge](https://obscureproductknowledge.com/home-systems/)
 
 ## Why This Archive Exists
 
