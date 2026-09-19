@@ -1,3 +1,16 @@
+---
+layout: page
+title: Zurn / Wilkins BR4 Pressure Reducing Valve Leak Repair and RK1-BR4 Rebuild
+description: Firsthand verified repair of a leaking 1-inch Zurn / Wilkins BR4 pressure reducing valve using the discontinued RK1-BR4 rebuild kit, including symptoms, internal findings, and final 50 PSI result.
+permalink: /home-systems/plumbing/zurn-wilkins/br4-pressure-reducing-valve/
+breadcrumbs:
+  - name: Home Systems
+    url: /home-systems/
+  - name: Plumbing
+  - name: Zurn / Wilkins
+  - name: BR4 Pressure Reducing Valve
+---
+
 # Zurn / Wilkins BR4 Pressure Reducing Valve — Leak Repair and RK1-BR4 Rebuild
 
 **Product:** Zurn / Wilkins BR4 Pressure Reducing Valve — circa 2003  
