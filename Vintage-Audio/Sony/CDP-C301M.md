@@ -1,249 +1,270 @@
 ---
 layout: page
-title: "Sony CDP-C301M Timing Belt 4-930-528-01 — Size, Specs and Replacement"
-description: "Sony CDP-C301M timing belt reference: part number 4-930-528-01, 83 teeth, 2 mm pitch, approximately 166 mm pitch length, plus two-belt configuration and replacement notes."
+title: Sony CDP-C301M Timing Belt 4-930-528-01 — Size, Specifications and Replacement
+description: Verified Sony CDP-C301M timing belt repair documenting Sony part number 4-930-528-01, 83 teeth, 2 mm pitch, approximately 166 mm pitch length, approximately 2 mm width, and successful physical installation.
 permalink: /vintage-audio/sony/cdp-c301m-timing-belt/
 breadcrumbs:
   - name: Vintage Audio
+    url: /vintage-audio/
   - name: Sony
-  - name: CDP-C301M Timing Belt
+  - name: CDP-C301M
 ---
-# Sony CDP-C301M — Drive Belts and Timing Belt Replacement
 
-Manufacturer: Sony
-Model: CDP-C301M
-Product: 5-disc compact disc changer
-Approximate era: 1990
-Repair status: VERIFIED — REPLACEMENT INSTALLED AND WORKING
-
-Quick Answer
-
-The correct timing belt replacement for the Sony CDP-C301M documented here is:
-
-Sony part number: 4-930-528-01
-
-The replacement belt was physically installed in the CDP-C301M and the player now works perfectly.
-
-Confirmed specifications:
-
-Specification	Confirmed value
-Sony part number	4-930-528-01
-Sony description	BELT (TIMING)
-Tooth count	83 teeth
-Pitch	2 mm
-Calculated pitch length	166 mm
-Width	approximately 2 mm
-Type	Toothed synchronous/timing belt
-Installation	Physically installed
-Result	Verified working
-
-This is no longer a documentation-only identification or dimensional estimate. A replacement Sony 4-930-528-01 belt has been installed and successfully tested in the actual Sony CDP-C301M used for this investigation.
-
-Belt Configuration
-
-The Sony CDP-C301M contains two separate drive belts.
-
-One is a conventional smooth rubber belt used in the upper disc carousel/table drive mechanism.
-
-The second is a narrow toothed timing belt used in the CD Drive Mechanism.
-
-This entry primarily documents the toothed timing belt.
-
-The confirmed Sony part number is:
-
-4-930-528-01 — BELT (TIMING)
-
-The timing belt should not be confused with the conventional smooth rubber belt used elsewhere in the changer mechanism.
-
-Original Problem
-
-The original timing belt was still intact, but had become loose with age.
-
-Because the belt had lost proper tension, the mechanism could no longer operate consistently.
-
-This is important when diagnosing a Sony CDP-C301M with changer or mechanism problems. The timing belt does not necessarily need to be visibly broken to cause a failure. An original belt that is still present but stretched or loose may be enough to prevent reliable operation.
-
-Physical Examination
-
-The Sony CDP-C301M used for this repair was opened and the mechanism physically inspected.
-
-Two separate drive belts were confirmed.
-
-The upper carousel/table mechanism uses a conventional smooth rubber belt connecting the drive motor to the carousel gearing.
-
-The CD Drive Mechanism uses a narrow toothed timing belt running between two toothed pulleys.
-
-The original toothed belt was removed so that its dimensions could be examined directly rather than relying solely on online parts listings or cross-reference information.
-
-Original Timing Belt Measurements
-
-The original CDP-C301M timing belt was manually measured.
-
-Specification	Measurement
-Tooth count	83 teeth
-Tooth pitch	approximately 2 mm
-Calculated pitch length	approximately 166 mm
-Belt width	approximately 2 mm
-Belt type	Toothed timing/synchronous belt
-
-The calculated pitch length is:
-
-83 teeth × 2 mm pitch = 166 mm
-
-These physical measurements ultimately agreed with the replacement that was successfully installed.
-
-Sony Part Number Identification
-
-Research into Sony service documentation identified:
-
-4-930-528-01 — BELT (TIMING)
-
-Sony service information for the CDP-C301M/CDP-C305M references related mechanisms used in other Sony changers of the period. Service documentation for the related Sony CDP-C500M identifies 4-930-528-01 as the timing belt used in that mechanism.
-
-That evidence made 4-930-528-01 the strongest candidate for the CDP-C301M timing belt.
-
-At that stage of the investigation, however, the part number was deliberately treated as unverified because the replacement had not yet been physically installed in the CDP-C301M.
-
-That final verification has now been completed.
-
-Confirmed Replacement and Repair Result
-
-A replacement timing belt sold under Sony part number:
-
-4-930-528-01
-
-was obtained for physical testing.
-
-The belt was installed in the Sony CDP-C301M used throughout this investigation.
-
-Result
-
-The replacement fits correctly and the player works perfectly.
-
-The changer mechanism was operated after installation and functioned properly.
-
-This confirms Sony 4-930-528-01 as a working timing belt replacement for the Sony CDP-C301M examined in this repair.
-
-The confirmed belt specifications are:
-
-Sony part number: 4-930-528-01
-Tooth count: 83
-Pitch: 2 mm
-Calculated pitch length: 166 mm
-Width: approximately 2 mm
-Type: toothed timing/synchronous belt
-Physical installation: successful
-Operational test: successful
-
-This result upgrades the part identification from a service-document and measurement-based conclusion to a physically installed and operationally verified repair.
-
-Important Warning About Online Cross-References
-
-Several timing belts for other Sony 5-disc CD changers appear in online searches and replacement-parts listings.
-
-Similar appearance or use in another Sony 5-disc changer does not establish compatibility with the CDP-C301M.
-
-During this investigation, other Sony belt numbers encountered included:
-
-4-924-478-01
-4-944-490-01
-
-These should not be substituted for 4-930-528-01 solely because an online compatibility list associates them with similar Sony CD changers.
-
-Known replacement specifications for those belts did not agree with the 83-tooth original belt physically removed from the CDP-C301M documented here.
-
-When repairing older Sony CD changers, verify the mechanism, Sony part number, tooth count, pitch, and physical dimensions rather than assuming that similar-looking Sony models use interchangeable belts.
-
-For the CDP-C301M documented on this page, 4-930-528-01 is the replacement that was actually installed and successfully tested.
-
-Temporary Diagnostic Workaround
-
-Before the correct timing belt was obtained, a conventional smooth rubber belt of suitable tension was temporarily installed around the two timing-belt pulleys.
-
-The mechanism operated with this temporary belt.
-
-This was useful diagnostically because it helped establish that loss of proper drive from the deteriorated original timing belt was responsible for the mechanical problem.
-
-A smooth rubber belt should not be considered a permanent replacement.
-
-The pulleys are designed for a toothed timing belt. A smooth belt cannot positively engage the pulley teeth and may slip or lose synchronization under load.
-
-The temporary smooth belt was therefore used only to diagnose the problem.
-
-The correct permanent repair is the toothed Sony 4-930-528-01 timing belt.
-
-Possible Industrial Equivalent
-
-The measured physical dimensions correspond approximately to:
-
-S2M-166 / 83 teeth / 2 mm pitch
-
-However, commonly available industrial S2M-166 timing belts may be considerably wider than the approximately 2 mm-wide Sony belt.
-
-An industrial S2M-166 belt therefore should not automatically be assumed to fit the CDP-C301M.
-
-Any industrial substitute would need to be checked for:
-
-tooth profile
-tooth count
-pitch
-belt width
-pulley engagement
-mechanism clearance
-belt tracking
-reliable operation
-
-Because Sony 4-930-528-01 has now been physically installed and successfully tested, it remains the confirmed replacement documented by this entry.
-
-Verification Status
-Finding	Verification
-Two-belt configuration	Physically verified
-Original timing-belt tooth count	Physically verified — 83 teeth
-Original timing-belt pitch	Physically measured — approximately 2 mm
-Original timing-belt width	Physically measured — approximately 2 mm
-Sony part number 4-930-528-01	Confirmed
-Replacement 4-930-528-01 installation	Physically verified
-CDP-C301M operation after replacement	Operationally verified
-Overall repair	SUCCESSFUL
-Final Repair Conclusion
-
-The Sony CDP-C301M examined for this entry suffered from unreliable mechanical operation caused by an aged and loose toothed timing belt.
-
-Physical examination of the original belt established an 83-tooth count, approximately 2 mm pitch, and approximately 2 mm width.
-
-Service-document research subsequently identified Sony part number 4-930-528-01 as the likely correct timing belt.
-
-A replacement 4-930-528-01 was then obtained and physically installed in the same Sony CDP-C301M.
-
-The replacement works perfectly and the CD changer is operating correctly.
-
-Confirmed Sony CDP-C301M Timing Belt
-
-Sony 4-930-528-01
-83 teeth
-2 mm pitch
-166 mm calculated pitch length
-approximately 2 mm width
-PHYSICALLY INSTALLED — VERIFIED WORKING
-
-Why This Entry Exists
-
-Replacement-belt information for older CD players is frequently based on copied parts lists, reseller cross-references, or assumptions that mechanically similar models use the same belt.
-
-That can make it difficult to distinguish between a proposed replacement and one that has actually been tested.
-
-This entry documents the complete path from physical inspection and measurement, through Sony service-document research, to installation and successful operation.
-
-The goal is to preserve a confirmed repair result so that the next person troubleshooting a Sony CDP-C301M does not have to repeat the same investigation.
+# Sony CDP-C301M Timing Belt 4-930-528-01 — Size, Specifications and Replacement
+
+**Player:** Sony CDP-C301M  
+**Sony belt part number:** 4-930-528-01  
+**Timing belt:** 83 teeth  
+**Pitch:** 2 mm  
+**Pitch length:** approximately 166 mm  
+**Width:** approximately 2 mm  
+**Repair status:** VERIFIED — REPLACEMENT INSTALLED AND WORKING  
+**Evidence:** Original belt physically measured, replacement identified, physically installed, and operationally tested
 
 ---
 
-Last updated: September 2026
+## Quick Answer
+
+The timing belt used in the Sony CDP-C301M CD player has been physically identified, measured, replaced, and tested.
+
+The confirmed working replacement is:
+
+**Sony part number: 4-930-528-01**
+
+The original timing belt was physically measured as:
+
+- **83 teeth**
+- **2 mm tooth pitch**
+- **Approximately 166 mm pitch length**
+- **Approximately 2 mm width**
+
+A replacement Sony **4-930-528-01** belt was obtained, installed in the CDP-C301M, and tested.
+
+The player operates correctly with the replacement belt installed.
+
+**Result: Sony 4-930-528-01 — PHYSICALLY INSTALLED — VERIFIED WORKING**
 
 ---
 
-## More from the Obscure Product Knowledge Archive
+## Original Problem
 
-This entry is part of the **Obscure Product Knowledge Archive**, a collection of firsthand repair results, tested fixes, parts information, compatibility findings, measurements, and hard-to-find technical information.
+The Sony CDP-C301M uses a toothed timing belt as part of its disc-changing mechanism.
 
-[Browse the complete Obscure Product Knowledge Archive](/)
+When this belt deteriorates, stretches, breaks, or is missing, identifying a suitable replacement can be difficult because the required dimensions and tooth count are not obvious from the player itself.
+
+Reliable replacement information for this specific mechanism is also difficult to locate.
+
+The purpose of this repair was therefore not simply to find a belt that appeared similar, but to identify the original belt specifications and confirm a replacement through actual installation and operation.
+
+---
+
+## Original Belt Measurements
+
+The original Sony timing belt was physically examined and measured.
+
+The following specifications were established:
+
+| Specification | Verified measurement |
+|---|---:|
+| Tooth count | 83 teeth |
+| Tooth pitch | 2 mm |
+| Pitch length | approximately 166 mm |
+| Belt width | approximately 2 mm |
+
+The pitch length is derived from the verified tooth count and pitch:
+
+**83 teeth × 2 mm pitch = approximately 166 mm pitch length**
+
+These measurements provide useful identification information when evaluating possible replacement belts.
+
+---
+
+## Sony Replacement Part Number
+
+The replacement belt obtained for the repair was:
+
+**Sony 4-930-528-01**
+
+This belt was physically installed in the Sony CDP-C301M and successfully operated the mechanism.
+
+This moves the part number beyond an unverified cross-reference or dimensional estimate.
+
+**Sony 4-930-528-01 is a physically tested and confirmed working replacement in the documented CDP-C301M.**
+
+---
+
+## Timing Belt Type
+
+The original belt is a small synchronous / toothed timing belt.
+
+Its verified tooth spacing is:
+
+**2 mm pitch**
+
+The combination of:
+
+- 83 teeth
+- 2 mm pitch
+- approximately 166 mm pitch length
+- approximately 2 mm width
+
+provides a useful dimensional reference for identifying the belt.
+
+However, dimensional similarity alone should not be treated as proof that another belt is a correct replacement.
+
+The successful repair documented here used the actual Sony **4-930-528-01** replacement.
+
+---
+
+## Belt Width
+
+The original belt measured approximately:
+
+**2 mm wide**
+
+This is unusually narrow compared with many commonly available industrial timing belts.
+
+A wider belt with the correct tooth count and pitch should not automatically be assumed to fit the mechanism.
+
+Pulley width, surrounding clearances, tracking, and other mechanical factors may prevent a wider belt from operating correctly.
+
+For this reason, the approximately **2 mm original belt width** is an important part of the replacement specification.
+
+---
+
+## Replacement Installation
+
+A Sony **4-930-528-01** replacement belt was obtained and installed in the CDP-C301M.
+
+Following installation, the player was tested through normal operation.
+
+The mechanism operated correctly with the replacement belt installed.
+
+### Final result
+
+- Replacement physically installed: **YES**
+- Correct mechanical operation restored: **YES**
+- Belt remained properly engaged during operation: **YES**
+- Sony 4-930-528-01 confirmed working: **YES**
+
+**Overall repair result: SUCCESSFUL**
+
+---
+
+## Why Physical Verification Matters
+
+Vintage audio replacement-part information is frequently copied between parts lists, seller listings, forum posts, and compatibility databases without confirmation that the suggested component has actually been installed.
+
+That can be particularly problematic with timing belts because small differences in:
+
+- Tooth count
+- Tooth pitch
+- Belt width
+- Belt length
+- Tooth profile
+- Mechanical clearance
+
+can determine whether a belt actually works.
+
+For this repair, the original belt was physically examined and measured, and the identified Sony replacement was subsequently installed and tested.
+
+The specifications on this page therefore represent a completed repair rather than an untested compatibility suggestion.
+
+---
+
+## Industrial Belt Equivalents
+
+The measured dimensions may resemble commercially available synchronous timing belts.
+
+However, a nominally similar industrial belt should not automatically be considered equivalent to Sony part **4-930-528-01**.
+
+In particular, belt width can be a problem because many industrial belts with otherwise similar specifications are substantially wider than the approximately 2 mm belt used in the CDP-C301M.
+
+A candidate industrial belt should therefore be treated as **unverified** unless it has been physically installed and successfully operated in the player.
+
+The confirmed repair documented here used Sony part:
+
+**4-930-528-01**
+
+---
+
+## Additional Belt in the Mechanism
+
+The CDP-C301M mechanism also contains a separate flat rubber belt.
+
+This is distinct from the 83-tooth timing belt documented on this page.
+
+The flat belt was also replaced during work on the player, but the specifications documented here apply specifically to the toothed timing belt.
+
+Do not use the 83-tooth timing-belt specifications when attempting to identify the separate flat belt.
+
+---
+
+## What This Repair Confirms
+
+This firsthand repair confirms the following for the Sony CDP-C301M:
+
+- The timing belt has **83 teeth**.
+- The tooth pitch is **2 mm**.
+- The resulting pitch length is approximately **166 mm**.
+- The original belt width is approximately **2 mm**.
+- Sony part number **4-930-528-01** can be used as the replacement timing belt.
+- Sony **4-930-528-01** was physically installed in the player.
+- The player operated correctly after installation.
+
+This information is based on physical inspection, measurement, installation, and operational testing.
+
+---
+
+## Important Limitations
+
+This entry documents one physically completed Sony CDP-C301M repair.
+
+The dimensional measurements are intended primarily to document the original belt and assist with future identification.
+
+They should not be interpreted to mean that every commercially available 83-tooth, 2 mm-pitch belt will fit the CDP-C301M.
+
+Width, tooth profile, material, pulley engagement, and mechanism clearance may also affect compatibility.
+
+Where available, the physically verified Sony **4-930-528-01** replacement remains the confirmed reference documented by this repair.
+
+---
+
+## Search Reference
+
+**Sony CDP-C301M timing belt — Sony CDP-C301M belt replacement — Sony 4-930-528-01 — 4-930-528-01 timing belt — Sony CD player 83 tooth belt — 83 tooth 2 mm pitch timing belt — 166 mm timing belt — Sony CDP-C301M changer belt — CDP-C301M belt size — CDP-C301M repair — Sony CD changer timing belt**
+
+---
+
+## Verification Summary
+
+**Player:** Sony CDP-C301M  
+**Component:** Disc mechanism timing belt  
+**Sony part number:** 4-930-528-01  
+**Original tooth count:** 83 teeth  
+**Original pitch:** 2 mm  
+**Calculated pitch length:** approximately 166 mm  
+**Original width:** approximately 2 mm  
+**Replacement physically installed:** YES  
+**Operationally tested:** YES  
+**Final result:** VERIFIED WORKING
+
+---
+
+## Final Repair Conclusion
+
+For the Sony CDP-C301M, the confirmed replacement timing belt is:
+
+**Sony 4-930-528-01**
+
+The original belt was physically measured at **83 teeth with a 2 mm pitch and approximately 2 mm width**, corresponding to an approximately **166 mm pitch length**.
+
+Sony part **4-930-528-01** was subsequently installed in the player and tested successfully.
+
+**Repair status: VERIFIED — REPLACEMENT INSTALLED AND WORKING**
+
+---
+
+[← Back to Vintage Audio](https://obscureproductknowledge.com/vintage-audio/)
+
+*Last updated: September 2026*
